@@ -1,6 +1,6 @@
 
 version: "2"
-authtoken: 2KH2O2E7JhXRbsdr6CgIcf1haI2_2XYFTBr2G81pvLoDDip9T
+authtoken: KH2O2E7JhXRbsdr6CgIcf1haI2_2XYFTBr2G81pvLoDDip9
 tunnels:
   gbprimepay:
     proto: http
