@@ -1,4 +1,4 @@
-NGROK_AUTH_TOKEN            : "2KH2O2E7JhXRbsdr6CgIcf1haI2_2XYFTBr2G81pvLoDDip9T"
+NGROK_AUTH_TOKEN            : "KH2O2E7JhXRbsdr6CgIcf1haI2_2XYFTBr2G81pvLoDDip9"
 MQTT_HOST                   : "test.mosquitto.org" 
 MQTT_PORT                   : 1883 
 MQTT_PAID_TOPIC             : "blynkgo/customer_01/paid" 
