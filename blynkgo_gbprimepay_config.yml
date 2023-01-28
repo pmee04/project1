@@ -1,0 +1,9 @@
+NGROK_AUTH_TOKEN            : "2KH2O2E7JhXRbsdr6CgIcf1haI2_2XYFTBr2G81pvLoDDip9T"
+MQTT_HOST                   : "test.mosquitto.org" 
+MQTT_PORT                   : 1883 
+MQTT_PAID_TOPIC             : "blynkgo/customer_01/paid" 
+MQTT_TUNNEL_TOPIC           : "blynkgo/customer_01/tunnel"
+MQTT_LINE_TUNNEL_TOPIC      : "blynkgo/customer_01/line/tunnel"
+MQTT_TUNNEL_UPDATE_INTERVAL : 10
+WEBHOOK_LOG                 : True
+WEBHOOK_PORT                : 12345

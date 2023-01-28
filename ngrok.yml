@@ -1,0 +1,10 @@
+
+version: "2"
+authtoken: 2KH2O2E7JhXRbsdr6CgIcf1haI2_2XYFTBr2G81pvLoDDip9T
+tunnels:
+  gbprimepay:
+    proto: http
+    addr: 12345
+  line:
+    proto: http
+    addr: 6789
