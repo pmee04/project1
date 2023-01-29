@@ -40,4 +40,4 @@ elif platform.system() == "Linux":
 
 import time
 time.sleep(10)
-os.system('start /b cmd /c python 02.forward_publishing.py')
+os.system('python 02.forward_publishing.py')
